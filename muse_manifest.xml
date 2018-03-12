@@ -1,0 +1,174 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="juanpiece.me" resolutions="1x" timestamp="1520868765978">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="372155735" ref="portfolio:contact:index:about"/>
+    <file name="nomq_preview_master_a-master.css" crc="4117390307" ref="portfolio:contact:index:about"/>
+    <file name="portfolio.css" crc="273358813" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="446324251" ref="portfolio"/>
+    <file name="contact.css" crc="213010506" ref="contact"/>
+    <file name="nomq_contact.css" crc="3818699379" ref="contact"/>
+    <file name="index.css" crc="4069078373" ref="index"/>
+    <file name="nomq_index.css" crc="3839255023" ref="index"/>
+    <file name="about.css" crc="286366923" ref="about"/>
+    <file name="nomq_about.css" crc="222645530" ref="about"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:portfolio:contact"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about:portfolio:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:portfolio:contact"/>
+    <file name="museconfig.js" crc="380897831" ref="index:about:portfolio:contact"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:portfolio:contact"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about:portfolio:contact"/>
+    <file name="webpro.js" crc="242022427" ref="index:contact"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:portfolio:contact"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:about:portfolio:contact"/>
+    <file name="require.js" crc="4157109226" ref="index:about:portfolio:contact"/>
+    <file name="form_check.php" crc="147359589" ref="contact"/>
+    <file name="form_throttle.php" crc="93986428" ref="contact"/>
+    <file name="form_process.php" crc="3851993751" ref="contact"/>
+    <file name="form-u1006.php" crc="4001837950" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted image 2560x1600-crop-u745.jpg" crc="4278085588" seo="true" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="logo.png" crc="4123302609" seo="true" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pasted image 225x225.jpg" crc="4011300885" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 225x2252.jpg" crc="133854769" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 225x2253.jpg" crc="206120883" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cactus-crop-u766.jpg" crc="377212319" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about:portfolio:contact"/>
+    <file name="road-crop-u768.jpg" crc="4062052537" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trees-crop-u770.jpg" crc="4172508205" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u363.png" crc="4213946944" ref="index:about:portfolio:contact"/>
+    <file name="u363-a.png" crc="4213946944" ref="index:about:portfolio:contact"/>
+    <file name="cactus-crop-u7662.jpg" crc="4114926801" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="road-crop-u7682.jpg" crc="274627499" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trees-crop-u7702.jpg" crc="208521794" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cactus-crop-u7663.jpg" crc="42683659" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="road-crop-u7683.jpg" crc="4140536251" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trees-crop-u7703.jpg" crc="3990593972" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="about.jpg" crc="3962053929" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u624-15.png" crc="473752899" ref="about"/>
+    <file name="u624-152.png" crc="4041104588" ref="about"/>
+    <file name="u624-153.png" crc="217460858" ref="about"/>
+    <file name="2016-04-24 185514-1200x1649.jpg" crc="267780510" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="2016-04-24 185835-1200x940-1.jpg" crc="344136583" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="2016-04-24 190029-1200x1629-1.jpg" crc="3975429793" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="2016-04-24 191107-1200x1547-1.jpg" crc="3764601802" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="2016-04-24 191324-1200x1808-1.jpg" crc="190477041" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="2016-04-25 110810-1200x1201.jpg" crc="4291598377" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="2016-04-24 185514-1200x1649166x228.jpg" crc="378549831" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="2016-04-24 185835-1200x940-1250x207.jpg" crc="209635068" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="2016-04-24 190029-1200x1629-1183x229.jpg" crc="375674266" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="2016-04-25 110810-1200x1201211x211.jpg" crc="4117692661" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="2016-04-24 191324-1200x1808-1235x340.jpg" crc="4138365916" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="2016-04-24 191107-1200x1547-1188x232.jpg" crc="4290339671" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="2016-04-24 190029-1200x1629-1209x261.jpg" crc="320920628" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="2016-04-24 191107-1200x1547-1204x253.jpg" crc="497164214" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="2016-04-24 185835-1200x940-1208x172.jpg" crc="4151112172" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="2016-04-24 191324-1200x1808-1207x299.jpg" crc="4265007548" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="2016-04-25 110810-1200x1201206x206.jpg" crc="4021414682" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="241170609" seo="true" mt="1520867934461" redirect="true"/>
+  <file name="about.html" crc="527202981" seo="true" mt="1520867969777" redirect="true"/>
+  <file name="portfolio.html" crc="33280648" seo="true" mt="1520867635417" redirect="true"/>
+  <file name="contact.html" crc="3944002999" seo="true" mt="1520867620492" redirect="true"/>
+</manifest>
